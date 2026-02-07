@@ -61,3 +61,13 @@ footer{
     color: #fff;
     margin-top: 30px;
 }
+
+.tech ul {
+margin-left: 20px;
+list-style: square;
+}
+
+
+.tech li {
+margin-bottom: 6px;
+}
